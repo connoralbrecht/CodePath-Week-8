@@ -2,7 +2,7 @@ Project 8 - Pentesting Live Targets
 
 Time spent: 8 hours spent in total
 
-    Objective: Find, analyze, recreate, and document three vulnerabilities affecting an old version of WordPress
+    Get hands-on experience with some of the most common security exploits through an applied hacking exercise.
 
 Pentesting Report
 
